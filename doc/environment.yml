@@ -10,3 +10,4 @@ dependencies:
     - nbsphinx
     - netcdf4
     - nbsphinx-link
+    - sphinx-rtd-theme
