@@ -1,4 +1,0 @@
-ipykernel
-nbsphinx
-netcdf4
-cartopy
