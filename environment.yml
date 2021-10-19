@@ -5,6 +5,7 @@ dependencies:
   - pandoc
   - ipykernel
   - pip
+  - cartopy
   - pip:
     - nbsphinx
     - netcdf4
