@@ -9,3 +9,4 @@ dependencies:
   - pip:
     - nbsphinx
     - netcdf4
+    - nbsphinx-link

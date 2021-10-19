@@ -1,4 +1,4 @@
 version: 2
 formats: all
 conda:
-  environment: environment.yml
+  environment: doc/environment.yml

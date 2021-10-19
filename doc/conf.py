@@ -29,6 +29,7 @@ author = 'Daniele Nerini'
 # ones.
 extensions = [
     'nbsphinx',
+    'nbsphinx_link',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
