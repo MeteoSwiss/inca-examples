@@ -13,4 +13,4 @@ The jupyter notebooks can be directly open on Google Colab for interactive use, 
 
 ## Example data
 
-A set of example data from INCA is available on [Zenodo](https://zenodo.org/communities/meteoswiss/). You can find an overview at [this link](https://zenodo.org/records/6470725)).
+A set of example data from INCA is available on [Zenodo](https://zenodo.org/communities/meteoswiss/). You can find an overview at [this link](https://zenodo.org/records/6470725).
