@@ -1,7 +1,5 @@
 # INCA examples
 
-[![Documentation Status](https://readthedocs.org/projects/inca-examples/badge/?version=latest)](https://inca-examples.readthedocs.io/en/latest/?badge=latest)
-
 Tutorials for working with MeteoSwiss [INCA](https://www.meteoswiss.admin.ch/weather/warning-and-forecasting-systems/nowcasting.html) data. 
 
 The jupyter notebooks can be directly open on Google Colab for interactive use.
