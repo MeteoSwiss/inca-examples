@@ -2,7 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/inca-examples/badge/?version=latest)](https://inca-examples.readthedocs.io/en/latest/?badge=latest)
 
-Tutorials for working with MeteoSwiss [INCA](https://www.meteoswiss.admin.ch/home/services-and-publications/produkte.subpage.html/en/data/products/2021/nowcasting-inca-ch.html) data. 
+Tutorials for working with MeteoSwiss [INCA](https://www.meteoswiss.admin.ch/weather/warning-and-forecasting-systems/nowcasting.html) data. 
 
 The jupyter notebooks can be directly open on Google Colab for interactive use, while a static version is available in our [documentation page](https://inca-examples.readthedocs.io).
 
