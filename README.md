@@ -1,10 +1,8 @@
 # INCA examples
 
-[![Documentation Status](https://readthedocs.org/projects/inca-examples/badge/?version=latest)](https://inca-examples.readthedocs.io/en/latest/?badge=latest)
+Tutorials for working with MeteoSwiss [INCA](https://www.meteoswiss.admin.ch/weather/warning-and-forecasting-systems/nowcasting.html) data. 
 
-Tutorials for working with MeteoSwiss [INCA](https://www.meteoswiss.admin.ch/home/services-and-publications/produkte.subpage.html/en/data/products/2021/nowcasting-inca-ch.html) data. 
-
-The jupyter notebooks can be directly open on Google Colab for interactive use, while a static version is available in our [documentation page](https://inca-examples.readthedocs.io).
+The jupyter notebooks can be directly open on Google Colab for interactive use.
 
 ## Jupyter notebooks
 
@@ -13,4 +11,4 @@ The jupyter notebooks can be directly open on Google Colab for interactive use, 
 
 ## Example data
 
-A set of example data from INCA is available on [Zenodo](https://zenodo.org/communities/meteoswiss/). You can find an overview at [this link](https://zenodo.org/communities/meteoswiss/search?page=1&size=20&q=&keywords=inca).
+A set of example data from INCA is available on [Zenodo](https://zenodo.org/communities/meteoswiss/records?q=&f=subject%3AINCA&l=list&p=1&s=10&sort=newest). You can find an overview at [this link](https://zenodo.org/records/6470725).
